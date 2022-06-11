@@ -19,7 +19,7 @@ function App() {
   return (
     <Page>
       <Container>
-        <Typography color={color}>Prueba básica React</Typography>
+        <Typography color={color}>Prueba Básica React</Typography>
         <ButtonsContainer>
           <Button color={blue} value={blue} onClick={changeColor}/>
           <Button color={red} value={red} onClick={changeColor}/>
